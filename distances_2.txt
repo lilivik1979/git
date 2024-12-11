@@ -1,0 +1,2 @@
+Average Euclidean Distance: 7.40723
+Average Manhattan Distance: 9.46667

@@ -1,0 +1,4 @@
+g++ forel_algorithm.cpp -o forel_algorithm
+./forel_algorithm
+g++ ISODATA.cpp -o ISODATA
+./ISODATA
